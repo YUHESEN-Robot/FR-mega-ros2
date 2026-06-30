@@ -1,0 +1,23 @@
+bool diag_ebox_chg_mos_h_tem_limt
+bool diag_ebox_chg_mos_h_tem_close
+bool diag_ebox_ebox_mos_h_tem_limt
+bool diag_ebox_ebox_mos_h_tem_close
+bool diag_ebox_h_light_fault
+bool diag_ebox_b_light_fault
+bool diag_ebox_l_light_fault
+bool diag_ebox_r_light_fault
+
+float32 mcu_48v_voltage
+float32 mcu_current
+float32 ebox_48v_voltage
+float32 ebox_current
+float32 cus_48v_voltage
+float32 cus_48v_current
+
+float32 cus_24v_voltage
+float32 cus_24v_current
+float32 cus_12v_voltage
+float32 cus_12v_current
+float32 bat_48v_voltage
+float32 ebox_mos_tem
+float32 chg_mos_tem
